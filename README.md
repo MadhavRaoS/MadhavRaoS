@@ -1,8 +1,9 @@
-<h2>Hello PROgrammer👋</h2>
+<h2>Hello👋</h2>
 
-- Hello there I'm Madhav, an Enthusiastic CS undergrad, my interests are AI & ML and WebDev.
-- 👀 I’m a problem solver.
-- 🌱 I’m currently on the curve of learning foarever.
+- Hello there I'm Madhav, an CS Undergrad.
+- I’m good at problem solving and finding efficient solutions.
+- Good at A.I. & Machine learning and Data Science.
+- Currently learning optimizing websites and implementing lesser loading times.
 - 📫 Feel free to get connected.
 
 
