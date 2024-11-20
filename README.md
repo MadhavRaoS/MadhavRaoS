@@ -4,7 +4,7 @@
 - I’m good at problem solving and finding efficient solutions.
 - Good at A.I. & Machine learning and Data Science.
 - Currently learning optimizing websites.
-- frequently practice dsa problems
+- Now trying to be perfect at dsa.
 - 📫 Feel free to get connected.
 
 
