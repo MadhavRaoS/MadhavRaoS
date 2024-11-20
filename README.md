@@ -3,7 +3,8 @@
 - Hello there I'm Madhav, an CS Undergrad.
 - I’m good at problem solving and finding efficient solutions.
 - Good at A.I. & Machine learning and Data Science.
-- Currently learning optimizing websites and implementing lesser loading times.
+- Currently learning optimizing websites.
+- frequently practice dsa problems
 - 📫 Feel free to get connected.
 
 
