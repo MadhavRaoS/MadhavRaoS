@@ -4,6 +4,12 @@
 - Problem Solver and finding efficient solutions.
 - Interests: C/C++, python
 - Handson experiecne in A.I Agents ,LLMs and training ML models.
+- Graduated with a B.Tech in Computer Science (AI-ML) from SRM University in 2025 : CGPA 8.28.
+- I enjoy turning ideas into shipped products and solving challenging engineering problems.
+- 500+ algorithmic problems solved on LeetCode & CodeChef.
+
+
+
   
 
 
