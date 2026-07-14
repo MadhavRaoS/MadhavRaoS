@@ -1,8 +1,8 @@
 <h2>Hello👋</h2>
 
-- Hello there I'm Madhav, an CS Undergrad.
-- I’m good at problem solving and finding efficient solutions.
-- Good at A.I. & Machine learning and Data Science.
+- Hello there I'm Madhav, Seeking AI Engineering & Quant Roles.
+- Problem Solver and finding efficient solutions.
+- Handson experiecne in A.I Agents ,LLMs and training ML models.
 
 
 
