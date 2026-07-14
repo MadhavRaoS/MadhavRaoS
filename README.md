@@ -2,7 +2,7 @@
 
 - Hello I'm a fresher graduate seeking opportunities in AI engineering & Quant Roles.
 - Problem Solver and finding efficient solutions.
-- Intrests: C/C++, python
+- Interests: C/C++, python
 - Handson experiecne in A.I Agents ,LLMs and training ML models.
   
 
